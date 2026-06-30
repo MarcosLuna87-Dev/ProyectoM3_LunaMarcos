@@ -1,0 +1,28 @@
+{
+  "name": "proyectom3_lunamarcos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosLuna87-Dev/ProyectoM3_LunaMarcos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MarcosLuna87-Dev/ProyectoM3_LunaMarcos/issues"
+  },
+  "homepage": "https://github.com/MarcosLuna87-Dev/ProyectoM3_LunaMarcos#readme",
+  "devDependencies": {
+    "jsdom": "^29.1.1",
+    "vitest": "^4.1.9"
+  }
+}
