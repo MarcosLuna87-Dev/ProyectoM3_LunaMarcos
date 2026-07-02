@@ -42,7 +42,7 @@ export function renderErrorState() {
 export function renderTypingIndicator() {
   return `
     <div class="message message--character message--typing">
-      <span class="typing-dot">.</span><span class="typing-dot">.</span><span class="typing-dot">.</span> Goku está concentrando su Ki (pensando)
+      <span class="typing-dot">.</span><span class="typing-dot">.</span><span class="typing-dot">.</span> Goku está escribiendo...
     </div>
   `;
 }
